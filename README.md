@@ -1,7 +1,7 @@
 <div align="center">
 
 # Python Labs
-   
+       
 ### Engineering-Focused Python Mastery Repository
 
 A structured repository dedicated to mastering Python through
